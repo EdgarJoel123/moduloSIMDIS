@@ -1,0 +1,44 @@
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\bin\Debug\Exportables Sisde.exe.config
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\bin\Debug\Exportables Sisde.exe
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\bin\Debug\Exportables Sisde.pdb
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables_Sisde.Form1.resources
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables_Sisde.LoginForm.resources
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables_Sisde.Properties.Resources.resources
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.GenerateResource.Cache
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables Sisde.exe
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables Sisde.pdb
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables_Sisde.IfrmExportacion.resources
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\bin\Debug\Newtonsoft.Json.dll
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\bin\Debug\Newtonsoft.Json.xml
+E:\sisde 2020 12 23\Exportables Sisde\Exportables Sisde\obj\Debug\Exportables Sisde.csprojResolveAssemblyReference.cache
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.exe.config
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.exe
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.pdb
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Newtonsoft.Json.dll
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Newtonsoft.Json.xml
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csprojResolveAssemblyReference.cache
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.Form1.resources
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.IfrmExportacion.resources
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.LoginForm.resources
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.Properties.Resources.resources
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.GenerateResource.Cache
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.exe
+E:\sisde 2020 12 23\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.pdb
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.exe.config
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.exe
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Exportables Sisde.pdb
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Newtonsoft.Json.dll
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Newtonsoft.Json.xml
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csprojAssemblyReference.cache
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.Form1.resources
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.IfrmExportacion.resources
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.LoginForm.resources
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.Properties.Resources.resources
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.GenerateResource.cache
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.CoreCompileInputs.cache
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.CopyComplete
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.exe
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.pdb
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables_Sisde.FormSLEJ.resources
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\obj\Debug\Exportables Sisde.csproj.ResolveComReference.cache
+D:\ProyectoExcel\Exportables Sisde PROYECTO inicial\Exportables Sisde\bin\Debug\Oracle.ManagedDataAccess.dll
